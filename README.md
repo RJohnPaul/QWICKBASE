@@ -1,7 +1,7 @@
 # QWICKBASE
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/sentiment.py/blob/35a28a6d7fb99c7ebce1d98837034b1faf45d7eb/b1.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/qwickbase/blob/7b0f31ec9b8f3764ade25a63057e03cb33586966/Frame%206.png" alt="Project Banner">
   </br>
 </div>
 
