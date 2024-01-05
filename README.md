@@ -7,7 +7,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/sentiment.py/blob/e0cd54bcf578ffebb4be6a00fdca0f9ac393c4b3/b2.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/qwickbase/blob/fba5a8457f5bf6f4242fe0d47431f64758a37987/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 
