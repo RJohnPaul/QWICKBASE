@@ -1,5 +1,17 @@
 # QWICKBASE
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/sentiment.py/blob/35a28a6d7fb99c7ebce1d98837034b1faf45d7eb/b1.png" alt="Project Banner">
+  </br>
+</div>
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/sentiment.py/blob/e0cd54bcf578ffebb4be6a00fdca0f9ac393c4b3/b2.png" alt="Project Banner">
+  </br>
+</div>
+
+<br/>
 ## Overview
 
 This Stock Trading Simulator is a Python application that simulates a stock trading platform. It allows users to buy and sell stocks, manage their portfolio, and view transaction history through an intuitive graphical user interface (GUI). The application is primarily built using the following technologies:
