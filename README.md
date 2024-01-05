@@ -12,6 +12,7 @@
 </div>
 
 <br/>
+
 ## Overview
 
 This Stock Trading Simulator is a Python application that simulates a stock trading platform. It allows users to buy and sell stocks, manage their portfolio, and view transaction history through an intuitive graphical user interface (GUI). The application is primarily built using the following technologies:
